@@ -6,3 +6,7 @@ pyjanitor
 ipykernel
 requests
 beautifulsoup4
+matplotlib
+flask
+pillow
+ollama
